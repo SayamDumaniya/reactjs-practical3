@@ -46,9 +46,9 @@ function Counter() {
 
       {/* Footer Info using properties from previous context */}
       <div className="border-t border-gray-100 pt-4 text-xs text-gray-500 space-y-1">
-        <p><span className="font-semibold text-gray-700">Student:</span> Manish kumar</p>
+        <p><span className="font-semibold text-gray-700">Student:</span> Sayam Dumaniya</p>
         <p><span className="font-semibold text-gray-700">Course:</span> BCA Hons (Semester V)</p>
-        <p><span className="font-semibold text-gray-700">City:</span> Aburoad</p>
+        <p><span className="font-semibold text-gray-700">City:</span> Surendranagar</p>
       </div>
     </div>
   );
